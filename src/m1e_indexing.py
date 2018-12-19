@@ -106,7 +106,7 @@ def examples_of_indexing(sequence):
     # statements to appear on the console before the error message does.
     time.sleep(1)
 
-    print(sequence[length])  # Oops!  Generates an error.
+    print(len(sequence))  # Oops!  Generates an error.
 
 
 # -----------------------------------------------------------------------------
