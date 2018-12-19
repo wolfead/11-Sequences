@@ -528,7 +528,7 @@ def print_items_that_are_odd_integers(sequence):
       33 is at index 5
     """
     # -------------------------------------------------------------------------
-    # TODO: 9. Implement and test this function.
+    # done: 9. Implement and test this function.
     #
     # IMPORTANT:  The  type  function returns  int  if its argument
     #   is an integer.  Note that   int   has NO quotes surrounding it.
